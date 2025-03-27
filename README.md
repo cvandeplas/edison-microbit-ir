@@ -109,7 +109,7 @@ while True:
 
 ## License
 
-This software is licensed under GNU Affero General Public License version 3. See the LICENSE file for more details.
+This software is licensed under MIT License. See the LICENSE file for more details.
 
 Copyright 2025 Christophe Vandeplas.
 
