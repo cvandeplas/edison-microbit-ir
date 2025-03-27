@@ -1,0 +1,17 @@
+{
+    "name": "Edison",
+    "version": "1.0.0",
+    "description": "Microbit MakeCode extension for IR communication with an Edison robot",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "edison_ir.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
